@@ -1,0 +1,16 @@
+print('Tabela verdade')
+print(f'True and True -> {True and True}')
+print(f'True and false -> {True and False}')
+print(f'False and True -> {False and True}')
+print(f'False and False -> {False and False}')
+print('-' * 50)
+print('Tabela verdade do OU (OR) lógico (Disjunção)')
+print(f'True or True -> {True or True}')
+print(f'True or False -> {True or False}')
+print(f'False or True -> {False or True}')
+print(f'False or False -> {False or False}')
+print('Tabela verdade do NÃO (NOT) lógico (Negação)')
+print(f'True not -> {not True}')
+print(f'False not -> {not False}')
+
+
